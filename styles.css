@@ -227,8 +227,9 @@ li {
   margin-top: 20px;
 }
 
-figure {
-  margin: 0;
+.image-grid figure {
+  max-width: 650px;
+  margin: 0 auto;
 }
 
 img {
